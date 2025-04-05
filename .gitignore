@@ -40,3 +40,5 @@ dist/
 *.orig
 *.bak
 *db.sqlite3
+*wsgi.py
+*wsgi.py
