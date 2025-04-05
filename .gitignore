@@ -39,4 +39,4 @@ dist/
 # Other common exclusions
 *.orig
 *.bak
-*~
+*db.sqlite3
