@@ -1,1 +1,42 @@
-﻿
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment-specific files
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django-specific
+*.log
+*.pot
+media
+
+# Database (if you're using SQLite for development, you might keep it, but be cautious about production)
+*.sqlite3
+__db.sqlite3
+
+# Static files (if you're collecting them into a specific directory)
+static
+
+# IDE and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Other common exclusions
+*.orig
+*.bak
+*~
