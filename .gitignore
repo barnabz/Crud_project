@@ -39,6 +39,3 @@ dist/
 # Other common exclusions
 *.orig
 *.bak
-*db.sqlite3
-*wsgi.py
-*wsgi.py
